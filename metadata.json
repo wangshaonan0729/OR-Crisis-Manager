@@ -1,0 +1,8 @@
+{
+  "name": "Anesthesiology Crisis Manager",
+  "description": "A high-performance cognitive aid for anesthesiologists during intraoperative emergencies, utilizing Gemini 3 Pro for advanced clinical reasoning and dosage calculations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
